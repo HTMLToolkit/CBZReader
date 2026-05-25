@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NellowTCS/CBZReader.git"
+    "url": "git+https://github.com/HTMLToolkit/CBZReader.git"
   },
   "author": "NellowTCS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NellowTCS/CBZReader/issues"
+    "url": "https://github.com/HTMLToolkit/CBZReader/issues"
   },
-  "homepage": "https://github.com/NellowTCS/CBZReader#readme",
+  "homepage": "https://github.com/HTMLToolkit/CBZReader#readme",
   "dependencies": {
     "jszip": "^3.10.1",
     "lenis": "^1.3.17",
